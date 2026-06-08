@@ -61,10 +61,24 @@
             mtype="seg"
             mid="1"
             MadCap:conditions="Default.PrintOnly"
-            MadCap:parentConditions="|Default.PrintOnly">Delete this text and replace it with your own content.</mrk></seg-source><target
+            MadCap:parentConditions="|Default.PrintOnly">Delete this text and replace</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="|Default.PrintOnly">it with your own content.</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /></target></trans-unit></body>
   </file>
